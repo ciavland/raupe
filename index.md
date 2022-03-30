@@ -12,7 +12,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Öffnungszeiten
+# Willkommen!
+
+## Öffnungszeiten
 
 Dienstag, Mittwoch und Donnerstag
 9.00 - 11.00 Uhr
