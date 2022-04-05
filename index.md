@@ -2,15 +2,17 @@
 layout: default
 ---
 
-![Raupe](raupe.jpeg)
+![Raupe](assets/images/raupe.jpeg)
 
 # Willkommen!
+
+[Unsere AGBs](./agbs.html)
 
 ## Öffnungszeiten
 
 Dienstag, Mittwoch und Donnerstag
 
-9.00 - 11.00 Uhr und 14.00 - 18.00 Uhr
+9.00 - 12.00 Uhr und 14.00 - 18.00 Uhr
 
 Am Gründonnerstag und Mittwoch vor Auffahrt schliessen wir um 16.00 Uhr
 

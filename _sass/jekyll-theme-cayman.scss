@@ -162,6 +162,15 @@ a {
 .main-content {
   word-wrap: break-word;
 
+  /*
+  background-image: url('../images/oetwil_kirche.jpeg');
+  Create the parallax scrolling effect 
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+  */
+  
   :first-child {
     margin-top: 0;
   }
