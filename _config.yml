@@ -1,8 +1,11 @@
 title: Raupe Kinderartikelbörse
-description: Willkommen!
+description: Ihre exklusive Kinderartikelbörse in Oetwil am See (CH)
 show_downloads: false
-google_analytics:
+google_analytics: UA-599731-4
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 theme: jekyll-theme-cayman
+locale: de_CH
+lang: de
+logo: /assets/images/raupe.jpeg
