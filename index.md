@@ -43,7 +43,7 @@ Industriestrasse 9
 
 Email: kontakt@raupeboerse.ch
 
-<b>Es steht ein Parkplatz direkt vor dem Laden zur Verfügung. Falls dieser belegt ist, parken sie bitte auf einem der zahlreichen Parkplätze in der blauen und weisse Zone in der Industriestrasse.</b>
+<b>Es steht ein Parkplatz direkt vor dem Laden zur Verfügung. Falls dieser belegt ist, parken Sie bitte auf einem der zahlreichen Parkplätze in der blauen und weisse Zone in der Industriestrasse.</b>
 
 ### AGBs
 
