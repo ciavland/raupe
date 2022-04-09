@@ -6,7 +6,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Finden Sie uns auf Google Maps!](https://goo.gl/maps/qacTGfMQJLABT9zLA).
 
 There should be whitespace between paragraphs.
 
