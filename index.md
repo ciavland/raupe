@@ -39,6 +39,8 @@ Samstag: <b>10.00 bis 14.00 Uhr</b>
 
 Raupe Kinderartikelbörse
 
+Inhaberin: Zhanna Wälchli
+
 Industriestrasse 9
 
 8618 Oetwil am See
