@@ -45,9 +45,9 @@ Industriestrasse 9
 
 8618 Oetwil am See
 
-Email: kontakt@raupeboerse.ch
+Email: [kontakt@raupeboerse.ch](mailto:kontakt@raupeboerse.ch)
 
-<b>Es steht ein Parkplatz direkt vor dem Laden zur Verfügung. Falls dieser belegt ist, parken Sie bitte auf einem der zahlreichen Parkplätze in der blauen und weisse Zone in der Industriestrasse.</b>
+**Es steht ein Parkplatz direkt vor dem Laden zur Verfügung. Falls dieser belegt ist, parken Sie bitte auf einem der zahlreichen Parkplätze in der blauen und weisse Zone in der Industriestrasse.**
 
 ### AGBs
 
