@@ -8,6 +8,8 @@ layout: default
 
 Ich freue mich sehr, dass Sie mich hier auf der Webseite von der Kinderartikelbörse Raupe in Oetwil am See besuchen. Als Mami von 2 Kindern, hat mir eine Kinderkleiderbörse in Oetwil bis jetzt immer gefehlt.
 
+*Zhanna Wälchli*
+
 ### Folgende Artikel nehmen wir sehr gerne an:
 
 * Kinderkleider in den Grössen 44 – 164, Schuhe bis Grösse 42 (keine Socken & Unterwäsche)
