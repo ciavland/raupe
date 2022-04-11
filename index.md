@@ -35,7 +35,7 @@ Samstag: <b>10.00 bis 14.00 Uhr</b>
 
 ## Adresse & Kontakt
 
-[Finden Sie uns auf Google Maps!](https://goo.gl/maps/qacTGfMQJLABT9zLA){:target="_blank"}
+[Finden Sie uns auf Google Maps!](https://goo.gl/maps/vEyivdGAazGnQpJg9){:target="_blank"}
 
 Raupe Kinderartikelbörse
 
