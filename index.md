@@ -47,6 +47,9 @@ Industriestrasse 9
 
 Email: [kontakt@raupeboerse.ch](mailto:kontakt@raupeboerse.ch)
 
+**Als Zahlungsarten akzeptieren wir TWINT oder Bargeld.**  
+[![Twint](assets/images/twint_logo.png)](https://www.twint.ch){:target="_blank"}
+
 **Es steht ein Parkplatz direkt vor dem Laden zur Verfügung. Falls dieser belegt ist, parken Sie bitte auf einem der zahlreichen Parkplätze in der blauen und weisse Zone in der Industriestrasse.**
 
 ### AGBs
