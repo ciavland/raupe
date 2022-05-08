@@ -31,7 +31,7 @@ Montag, Dienstag, Donnerstag und Freitag:
 
 Mittwoch: <b>14.00 bis 17.00 Uhr</b>
 
-Samstag: <b>10.00 bis 14.00 Uhr</b>
+Samstag: <b>nach Vereinbarung</b>
 
 ## Adresse & Kontakt
 
