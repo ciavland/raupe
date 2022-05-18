@@ -10,6 +10,10 @@ Ich freue mich sehr, dass Sie mich hier auf der Webseite von der Kinderartikelb�
 
 *Zhanna Wälchli*
 
+### NEU bei uns:
+
+[Reima Kinderartikel](https://www.reima.com/ch){:target="_blank"} mit 40% Rabatt!
+
 ### Folgende Artikel nehmen wir sehr gerne an:
 
 * Kinderkleider in den Grössen 44 – 164, Schuhe bis Grösse 42 (keine Socken & Unterwäsche)
@@ -27,7 +31,7 @@ Ich freue mich sehr, dass Sie mich hier auf der Webseite von der Kinderartikelb�
 
 Montag, Dienstag, Donnerstag und Freitag:
 
-<b>9.15 - 11.30 Uhr und 14.00 bis 17.00 Uhr</b>
+<b>9.15 - 11.30 Uhr</b>
 
 Mittwoch: <b>14.00 bis 17.00 Uhr</b>
 
