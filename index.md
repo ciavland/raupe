@@ -13,6 +13,9 @@ Ich freue mich sehr, dass Sie mich hier auf der Webseite von der Kinderartikelb�
 
 *Zhanna Wälchli*
 
+![Eingang](assets/images/entrance.jpg)
+
+
 ### NEU bei uns:
 
 [Reima Kinderartikel](https://www.reima.com/ch){:target="_blank"} mit 40% Rabatt!
@@ -58,6 +61,9 @@ Email: [kontakt@raupeboerse.ch](mailto:kontakt@raupeboerse.ch)
 [![Twint](assets/images/twint_logo.png)](https://www.twint.ch){:target="_blank"}
 
 **Es steht ein Parkplatz direkt vor dem Laden zur Verfügung. Falls dieser belegt ist, parken Sie bitte auf einem der zahlreichen Parkplätze in der blauen und weisse Zone in der Industriestrasse.**
+
+![Eingang](assets/images/kids1.jpg)
+
 
 ### AGBs
 
