@@ -4,9 +4,6 @@ layout: default
 
 ![Raupe](assets/images/raupe.png)
 
-
-# Wir sind von 19. Juli bis 16. August in den Ferien.
-
 ## Herzlich Willkommen!
 
 Ich freue mich sehr, dass Sie mich hier auf der Webseite von der Kinderartikelbörse Raupe in Oetwil am See besuchen. Als Mami von 2 Kindern, hat mir eine Kinderkleiderbörse in Oetwil bis jetzt immer gefehlt.
