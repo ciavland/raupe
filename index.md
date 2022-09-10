@@ -4,8 +4,6 @@ layout: default
 
 ![Raupe](assets/images/raupe.png)
 
-# Wir haben am Mittwoch nachmittag, den 7. September geschlossen!
-
 ## Herzlich Willkommen!
 
 Ich freue mich sehr, dass Sie mich hier auf der Webseite von der Kinderartikelbörse Raupe in Oetwil am See besuchen. Als Mami von 2 Kindern, hat mir eine Kinderkleiderbörse in Oetwil bis jetzt immer gefehlt.
