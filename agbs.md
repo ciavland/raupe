@@ -46,7 +46,7 @@ Generell können immer Waren zu den Öffnungszeiten abgegeben werden.
 
 #### 4\. Nicht verkaufte Artikel
 
-Auf Artikel die sich in einem Zeitraum bis 6 Monaten nicht verkauft haben, entfällt der Anspruch der Kundin auf die Ware ohne Rücksprache. Die Kinderartikelbörse Raupe behält sich vor, die Ware einzulagern und in der nächsten Saison noch einmal anzubieten, an ein Hilfswerk zu spenden oder zu entsorgen.
+Auf Artikel die sich in einem Zeitraum bis 12 Monaten nicht verkauft haben, entfällt der Anspruch der Kundin auf die Ware ohne Rücksprache. Die Kinderartikelbörse Raupe behält sich vor, die Ware einzulagern und in der nächsten Saison noch einmal anzubieten, an ein Hilfswerk zu spenden oder zu entsorgen.
 
 Ohne eine ausdrückliche Vereinbarung können zu einem späteren Zeitpunkt keine Ansprüche geltend gemacht werden.
 
