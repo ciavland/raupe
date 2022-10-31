@@ -38,7 +38,7 @@ Je nach Platzangebot behält sich die Kinderartikelbörse Raupe vor, die Annahme
 
 Alle Waren werden als Kommissionsware der Kundin entgegengenommen und bleiben bis zum  Verkauf durch die Kinderartikelbröse Raupe in deren Besitz.
 
-#### 3\. Warenannahme
+### 3\. Warenannahme
 
 Alle Textilien müssen frisch gewaschen und ohne Flecken, Löcher oder Risse sein. Spielzeuge müssen gereinigt, unbeschädigt und vollständig sein.
 
