@@ -26,13 +26,13 @@ Ich freue mich sehr, dass Sie mich hier auf der Webseite von der Kinderartikelb�
 
 ### Annahmebedingungen
 
-* Pro Woche maximal 3 Einkaufstaschen oder 2 Ikeasäcke
+* Pro Woche maximal 2 Einkaufstaschen oder 1 Ikeasack
 * Gerne dürfen Sie mehrmals während der Saison bringen
 * Bitte schreiben Sie alle Taschen mit Ihrem Namen und vollständiger Adresse an
 
 ## Öffnungszeiten
 
-Montag, Dienstag, Donnerstag und Freitag:
+Montag und Donnerstag :
 
 <b>9.15 - 11.30 Uhr</b>
 
