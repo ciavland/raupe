@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![Raupe](assets/images/raupe.png)
-# Achtung: NEUE ÖFFNUNGSZEITEN AB 28. NOVEMBER 2022
+# Achtung: Ferien: 28. Dezember 2022- 5. Januar 2023!
 ## Herzlich Willkommen!
 
 Ich freue mich sehr, dass Sie mich hier auf der Webseite von der Kinderartikelbörse Raupe in Oetwil am See besuchen. Als Mami von 2 Kindern, hat mir eine Kinderkleiderbörse in Oetwil bis jetzt immer gefehlt.
