@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![Raupe](assets/images/raupe.png)
-# Achtung: Ferien: 28. Dezember 2022 - 5. Januar 2023! Am 18.-19. Januar geschlossen (Inventur). Ab 23 Januar reguläre Öffnungszeiten.
+# Achtung: Ferien: 28. Dezember 2022 - 5. Januar 2023! Am 18.-19. Januar geschlossen (Inventur). Ab 23. Januar reguläre Öffnungszeiten.
 
 ## Herzlich Willkommen!
 
