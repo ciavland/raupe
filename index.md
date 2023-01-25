@@ -5,6 +5,8 @@ layout: default
 ![Raupe](assets/images/raupe.png)
 
 
+Zur Zeit Annahmestop!!!
+
 
 ## Herzlich Willkommen!
 
@@ -34,7 +36,7 @@ Ich freue mich sehr, dass Sie mich hier auf der Webseite von der Kinderartikelb√
 
 ## √ñffnungszeiten
 
-Montag :
+Montag:
 
 <b>9.15 - 11.30 Uhr</b>
 
