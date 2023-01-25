@@ -1,9 +1,11 @@
----
+--
 layout: default
 ---
 
 ![Raupe](assets/images/raupe.png)
-# Achtung: Ferien: 28. Dezember 2022 - 5. Januar 2023! Am 18-19.01 geschlossen (Inventur). Ab 23.01 reguläre Öffnungszeiten.
+
+
+
 ## Herzlich Willkommen!
 
 Ich freue mich sehr, dass Sie mich hier auf der Webseite von der Kinderartikelbörse Raupe in Oetwil am See besuchen. Als Mami von 2 Kindern, hat mir eine Kinderkleiderbörse in Oetwil bis jetzt immer gefehlt.
@@ -15,7 +17,7 @@ Ich freue mich sehr, dass Sie mich hier auf der Webseite von der Kinderartikelb�
 
 ### NEU bei uns:
 
-[Reima Kinderartikel](https://www.reima.com/ch){:target="_blank"} mit 40% Rabatt!
+
 
 ### Folgende Artikel nehmen wir sehr gerne an:
 
@@ -32,7 +34,7 @@ Ich freue mich sehr, dass Sie mich hier auf der Webseite von der Kinderartikelb�
 
 ## Öffnungszeiten
 
-Montag und Donnerstag :
+Montag :
 
 <b>9.15 - 11.30 Uhr</b>
 
